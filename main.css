@@ -9,10 +9,8 @@ html {
 }
 
 body {
-    /* background: rgb(61,115,64);
-    background: linear-gradient(0deg, rgba(61,115,64,1) 0%, rgba(25,222,0,1) 100%); */
-    background: rgb(255,16,240);
-    background: linear-gradient(0deg, rgba(255,16,240,1) 0%, rgba(183,110,121,1) 100%);
+    background: rgb(131,0,0);
+    background: linear-gradient(0deg, rgba(131,0,0,1) 0%, rgba(255,101,101,1) 100%);
     font-size: 1vw;
 }
 
