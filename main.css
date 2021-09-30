@@ -9,8 +9,14 @@ html {
 }
 
 body {
-    background: rgb(131,0,0);
-    background: linear-gradient(0deg, rgba(131,0,0,1) 0%, rgba(255,101,101,1) 100%);
+    /* background: rgb(131,0,0);
+    background: linear-gradient(0deg, rgba(131,0,0,1) 0%, rgba(255,101,101,1) 100%); */
+    background-color: #E9D5B5;
+    background-image: url('/assets/poster.jpeg');
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-size: 100%;
+    background-position: center;
     font-size: 1vw;
 }
 
@@ -25,6 +31,7 @@ main {
 }
 
 h1 {
+    text-shadow: 0px 0px 20px white;
     font-family: 'Lobster Two', cursive;
     font-size: 80px;
 }
