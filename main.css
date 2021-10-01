@@ -14,10 +14,15 @@ body {
     background-color: #E9D5B5;
     background-image: url('/assets/poster.jpeg');
     background-repeat: no-repeat;
-    object-fit: contain;
     background-size: 100%;
     background-position: center;
     font-size: 1vw;
+}
+
+@media (max-width: 900px), (max-device-width: 900px) {
+    body {
+        background-size: auto 100vh;
+    }
 }
 
 main {
