@@ -8,9 +8,7 @@ html {
     padding: 0;
 }
 
-body {
-    /* background: rgb(131,0,0);
-    background: linear-gradient(0deg, rgba(131,0,0,1) 0%, rgba(255,101,101,1) 100%); */
+/* body {
     background-color: #E9D5B5;
     background-image: url('/assets/poster.jpeg');
     background-repeat: no-repeat;
@@ -23,6 +21,11 @@ body {
     body {
         background-size: auto 100vh;
     }
+} */
+
+body {
+    background: rgb(254,194,18,1);
+    background: linear-gradient(340deg, rgba(254,194,18,1) 45%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 55%);
 }
 
 main {
