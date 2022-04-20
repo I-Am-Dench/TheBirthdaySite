@@ -24,8 +24,8 @@ html {
 } */
 
 body {
-    background: rgb(160,0,255);
-    background: linear-gradient(0deg, rgba(160,0,255,1) 0%, rgba(174,71,200,1) 100%);
+    background: rgb(236,45,45);
+    background: linear-gradient(0deg, rgba(236,45,45,1) 0%, rgba(159,0,0,1) 100%);
 }
 
 main {
